@@ -2,7 +2,6 @@ import React,{useState,useEffect} from 'react'
 import './tinder-cards.css'
 import TinderCard from 'react-tinder-card';
 import axios from './axios';
-// import axios from 'axios';
  
 function TinderCards() {
 
@@ -21,7 +20,7 @@ function TinderCards() {
             console.log(err)
         }
       }
-    console.log(people)
+   
       fetchData();
   },[])
 

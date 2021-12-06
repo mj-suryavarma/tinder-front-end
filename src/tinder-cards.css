@@ -4,7 +4,7 @@
     background-repeat: no-repeat;
     background-size:center;
     background-position: center;
-    width: 600px;
+    width: 500px;
     padding: 20px;
     max-width: 85vh;
     height: 50vh;
@@ -31,5 +31,5 @@
     position: absolute;
     bottom: 0;
     margin: 10px;
-    color: gray;
+    color: black;
 }

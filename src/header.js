@@ -14,6 +14,7 @@ function Header() {
 
              <img
               className='header_logo' 
+              alt="tinder cloning app logo"
              src="https://1000logos.net/wp-content/uploads/2018/07/Tinder-logo.png"></img>
    
         <ForumIcon fontSize="large" className="header_icon" />
